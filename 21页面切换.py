@@ -20,7 +20,7 @@ driver.find_element(By.ID,"su").click()
 time.sleep(2)
 driver.find_element(By.ID,"1").click()
 
-time.sleep(2)
+time.sleep(5)
 
 
 
